@@ -1,5 +1,4 @@
 
-
 [![Xiao Qi](https://oathkeeper-qi.github.io/)](https://oathkeeper-qi.github.io/)
 
 Qī Xiào is currently a lecturer in the Department of Mathematics at the School of Artificial Intelligence, Jianghan University, Wuhan, Hubei Province, China.
