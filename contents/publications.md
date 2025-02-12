@@ -1,12 +1,10 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>X. Qi</strong>, and C. Xu* (2024). An efficient numerical method to the stochastic fractional heat equation with random coefficients and fractionally integrated multiplicative noise. <strong>Fractional Calculus and Applied Analysis.</strong> [[Paper]](https://doi.org/10.1007/s13540-024-00335-8)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>X. Qi</strong>, T. Duan, and H. Guo* (2024). An efficient data-driven approximation to the stochastic differential equations with non-global Lipschitz coefficient and multiplicative noise. <strong>AIMS Mathematics.</strong> [[Paper]](https://www.aimspress.com/article/doi/10.3934/math.2024585)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>X. Qi* </strong> (2023). Extended Milstein Approximation to the Stochastic Allen-Cahn Equation with Random Diffusion Coefficient Field and Multiplicative Noise. <strong>Journal of Mathematical Study.</strong> [[Paper]](doi/10.4208/jms.v56n4.23.05)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>X. Qi</strong>, Y. Zhang, and C. Xu* (2023). An efficient approximation to the stochastic Allen-Cahn equation with random diffusion coefficient field and multiplicative noise. <strong>Advances in Computational Mathematics.</strong> [[Paper]](https://doi.org/10.1007/s10444-023-10072-w)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>X. Qi</strong>, M. Azaiez, C Huang and C. Xu* (2022). n efficient numerical approach for stochastic evolution PDEs driven by random diffusion coefficients and multiplicative noise. <strong>AIMS Mathematics.</strong> [[Paper]](https://www.aimspress.com/article/doi/10.3934/math.20221134)
 

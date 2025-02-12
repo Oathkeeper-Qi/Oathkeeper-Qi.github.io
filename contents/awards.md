@@ -1,13 +1,12 @@
-- National Scholarship of Graduate Student, 2024.
+-
 
-- First-prize Scholarship of CUMT, 2024.
+- Outstanding student, Xiamen University, 2018.
 
-- First-prize Scholarship of CUMT, 2023.
+- Huawei scholarship, Xiamen University, 2017.
 
-- Freshman Scholarship of CUMT, 2022.
+- Outstanding Student Leader, Jiangxi University of Finance and Economics, 2016.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Second Prize in the College Student Mathematics Competition, 2016.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Third Prize in the College Student Mathematics Competition, 2014.
 
-- First-prize Scholarship of CUMT, 2019.
