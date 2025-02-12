@@ -1,3 +1,5 @@
+- <strong>X. Qi</strong>, T. Duan, L. Wang and H. Guo* (2025). CATL's stock price forecasting and its derived option pricing: a novel extended fNSDE-net method. <strong>AIMS Mathematics.</strong> [[Paper]](https://www.aimspress.com/article/doi/10.3934/math.2025114)
+
 - <strong>X. Qi</strong>, and C. Xu* (2024). An efficient numerical method to the stochastic fractional heat equation with random coefficients and fractionally integrated multiplicative noise. <strong>Fractional Calculus and Applied Analysis.</strong> [[Paper]](https://doi.org/10.1007/s13540-024-00335-8)
 
 - <strong>X. Qi</strong>, T. Duan, and H. Guo* (2024). An efficient data-driven approximation to the stochastic differential equations with non-global Lipschitz coefficient and multiplicative noise. <strong>AIMS Mathematics.</strong> [[Paper]](https://www.aimspress.com/article/doi/10.3934/math.2024585)
@@ -6,5 +8,5 @@
 
 - <strong>X. Qi</strong>, Y. Zhang, and C. Xu* (2023). An efficient approximation to the stochastic Allen-Cahn equation with random diffusion coefficient field and multiplicative noise. <strong>Advances in Computational Mathematics.</strong> [[Paper]](https://doi.org/10.1007/s10444-023-10072-w)
 
-- <strong>X. Qi</strong>, M. Azaiez, C Huang and C. Xu* (2022). n efficient numerical approach for stochastic evolution PDEs driven by random diffusion coefficients and multiplicative noise. <strong>AIMS Mathematics.</strong> [[Paper]](https://www.aimspress.com/article/doi/10.3934/math.20221134)
+- <strong>X. Qi</strong>, M. Azaiez, C. Huang and C. Xu* (2022). An efficient numerical approach for stochastic evolution PDEs driven by random diffusion coefficients and multiplicative noise. <strong>AIMS Mathematics.</strong> [[Paper]](https://www.aimspress.com/article/doi/10.3934/math.20221134)
 
