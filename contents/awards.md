@@ -1,5 +1,3 @@
--
-
 - Outstanding student, Xiamen University, 2018.
 
 - Huawei scholarship, Xiamen University, 2017.
