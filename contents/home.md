@@ -30,12 +30,6 @@ Principal Investigator: Xiao Qi.\
 Project Duration: September, 2024 – September, 2026.\
 Funding: 70,000 RMB
 
-#### Participated Conference
-Conference Name: 30th Biennial Conference on Numerical Analysis.\
-Time: 24 - 27 June, 2025.\
-Conference Organising Committee: Francesca Arrigo, Gabriel R. Barrenechea, Philip Knight, Jennifer Pestana.\
-Address: University of Strathclyde, Glasgow, United Kingdom.
-
 #### Participated Projects
 Project Title: Algorithm Design, Analysis, and Applications of Gradient Flow Models.\
 Project Number: 11971408.\
@@ -43,3 +37,8 @@ Principal Investigator: Professor Xu Chuanju.\
 Project Duration: January 1, 2020 – December 31, 2023.\
 Funding: 520,000 RMB
 
+#### Participated Conference
+Conference Name: 30th Biennial Conference on Numerical Analysis.\
+Time: 24 - 27 June, 2025.\
+Conference Organising Committee: Francesca Arrigo, Gabriel R. Barrenechea, Philip Knight, Jennifer Pestana.\
+Address: University of Strathclyde, Glasgow, United Kingdom.
