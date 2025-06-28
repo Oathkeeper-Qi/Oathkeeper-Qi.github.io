@@ -23,6 +23,12 @@ B.E., School of Statistics, Jiangxi University of Finance and Economics, 2012. 0
 #### Research Interests
 Numerical Analysis of Stochastic PDEs, Numerical calculation of Stochastic Phase-field model, Neural network.
 
+#### Participated Conference
+Conference Name: 30th Biennial Conference on Numerical Analysis.\
+Time: 24 - 27 June, 2025.\
+Conference Organising Committee: Francesca Arrigo, Gabriel R. Barrenechea, Philip Knight, Jennifer Pestana.\
+Address: University of Strathclyde, Glasgow, United Kingdom.
+
 #### Hosted Projects
 Project Title: Algorithm Design, Analysis, and Applications of Stochastic Evolution Equations.\
 Project Number: 2024JCYJ04.\
@@ -36,9 +42,3 @@ Project Number: 11971408.\
 Principal Investigator: Professor Xu Chuanju.\
 Project Duration: January 1, 2020 – December 31, 2023.\
 Funding: 520,000 RMB
-
-#### Participated Conference
-Conference Name: 30th Biennial Conference on Numerical Analysis.\
-Time: 24 - 27 June, 2025.\
-Conference Organising Committee: Francesca Arrigo, Gabriel R. Barrenechea, Philip Knight, Jennifer Pestana.\
-Address: University of Strathclyde, Glasgow, United Kingdom.
