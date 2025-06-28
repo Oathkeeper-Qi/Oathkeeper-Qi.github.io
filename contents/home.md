@@ -21,7 +21,7 @@ B.E., School of Statistics, Jiangxi University of Finance and Economics, 2012. 0
 
 
 #### Research Interests
-Numerical Analysis of Stochastic PDEs, Numerical calculation of Phase-field model, Neural network.
+Numerical Analysis of Stochastic PDEs, Numerical calculation of Stochastic Phase-field model, Neural network.
 
 #### Hosted Projects
 Project Title: Algorithm Design, Analysis, and Applications of Stochastic Evolution Equations.\
@@ -30,6 +30,11 @@ Principal Investigator: Xiao Qi.\
 Project Duration: September, 2024 – September, 2026.\
 Funding: 70,000 RMB
 
+#### Participated Conference
+Conference Name: 30th Biennial Conference on Numerical Analysis.\
+Time: 24 - 27 June, 2025.\
+Conference Organising Committee: Francesca Arrigo, Gabriel R. Barrenechea, Philip Knight, Jennifer Pestana.\
+Address: University of Strathclyde, Glasgow, United Kingdom.
 
 #### Participated Projects
 Project Title: Algorithm Design, Analysis, and Applications of Gradient Flow Models.\
